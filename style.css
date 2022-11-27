@@ -1,0 +1,12 @@
+body {
+    background-color: 00bbf9;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.pacman-game {
+    padding-left: 25px;
+    padding-top: 300px;
+    padding-bottom: 20px;
+}
